@@ -1,0 +1,37 @@
+#astec{
+    margin: 0 auto;
+    text-align: center;
+}
+#astec p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+}
+.titulo{
+    font-family: Verdana;
+    font-style:initial;
+    font-family: fantasy;
+}
+#img{
+    display: flex;
+    margin: 10px;
+}
+.a{
+    padding-right: 1%;
+    width: 20%;
+    height: 20%;
+}
+.b{
+    padding-right: 1%;
+    width: 24%;
+    height: 20%;
+}
+.c{
+    padding-right: 1%;
+    width: 15%;
+    height: 20%;
+}
+.d{
+    padding-right: 1%;
+    width: 19%;
+    height: 20%;
+}
